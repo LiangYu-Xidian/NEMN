@@ -1,0 +1,241 @@
+DB00681	DB00362	Amphotericin B	Anidulafungin
+DB00210	DB09096	Adapalene	Benzoyl peroxide
+DB09026	DB01197	Aliskiren	Captopril
+DB00479	DB00438	Amikacin	Ceftazidime
+DB00207	DB00438	Azithromycin	Ceftazidime
+DB00479	DB01212	Amikacin	Ceftriaxone
+DB00482	DB06777	Celecoxib	Chenodeoxycholic acid
+DB06724	DB00169	Calcium carbonate	Cholecalciferol
+DB01212	DB01211	Ceftriaxone	Clarithromycin
+DB00945	DB00758	Aspirin	Clopidogrel
+DB01101	DB00531	Capecitabine	Cyclophosphamide
+DB00515	DB00531	Cisplatin	Cyclophosphamide
+DB00681	DB01609	Amphotericin B	Deferasirox
+DB06151	DB00746	Acetylcysteine	Deferoxamine
+DB01609	DB00746	Deferasirox	Deferoxamine
+DB08826	DB00746	Deferiprone	Deferoxamine
+DB00575	DB00633	Clonidine	Dexmedetomidine
+DB00515	DB00997	Cisplatin	Doxorubicin
+DB00625	DB00879	Efavirenz	Emtricitabine
+DB00515	DB00530	Cisplatin	Erlotinib
+DB01212	DB00303	Ceftriaxone	Ertapenem
+DB00659	DB01175	Acamprosate	Escitalopram
+DB01156	DB01175	Bupropion	Escitalopram
+DB01156	DB01175	Bupropion	Escitalopram
+DB00829	DB00813	Diazepam	Fentanyl
+DB00501	DB00950	Cimetidine	Fexofenadine
+DB00681	DB00196	Amphotericin B	Fluconazole
+DB00515	DB00544	Cisplatin	Fluorouracil
+DB00215	DB00472	Citalopram	Fluoxetine
+DB01242	DB00472	Clomipramine	Fluoxetine
+DB00363	DB00472	Clozapine	Fluoxetine
+DB01211	DB00588	Clarithromycin	Fluticasone Propionate
+DB00973	DB01095	Ezetimibe	Fluvastatin
+DB00394	DB00983	Beclomethasone	Formoterol
+DB00588	DB00983	Fluticasone Propionate	Formoterol
+DB01217	DB00947	Anastrozole	Fulvestrant
+DB00872	DB00695	Conivaptan	Furosemide
+DB00564	DB00996	Carbamazepine	Gabapentin
+DB01217	DB00317	Anastrozole	Gefitinib
+DB00947	DB00317	Fulvestrant	Gefitinib
+DB00439	DB01241	Cerivastatin	Gemfibrozil
+DB00415	DB00798	Ampicillin	Gentamicin
+DB06203	DB01016	Alogliptin	Glyburide
+DB01217	DB00014	Anastrozole	Goserelin
+DB01128	DB00014	Bicalutamide	Goserelin
+DB00297	DB00327	Bupivacaine	Hydromorphone
+DB01101	DB00619	Capecitabine	Imatinib
+DB00415	DB01598	Ampicillin	Imipenem
+DB00207	DB01598	Azithromycin	Imipenem
+DB09026	DB01029	Aliskiren	Irbesartan
+DB01197	DB01029	Captopril	Irbesartan
+DB01023	DB01029	Felodipine	Irbesartan
+DB00518	DB00602	Albendazole	Ivermectin
+DB00567	DB01172	Cephalexin	Kanamycin
+DB01394	DB01026	Colchicine	Ketoconazole
+DB00316	DB01009	Acetaminophen	Ketoprofen
+DB00787	DB01009	Aciclovir	Ketoprofen
+DB00718	DB00709	Adefovir	Lamivudine
+DB00564	DB00555	Carbamazepine	Lamotrigine
+DB06616	DB00448	Bosutinib	Lansoprazole
+DB01222	DB00448	Budesonide	Lansoprazole
+DB01101	DB01259	Capecitabine	Lapatinib
+DB00484	DB00654	Brimonidine	Latanoprost
+DB01194	DB00654	Brinzolamide	Latanoprost
+DB00928	DB00480	Azacitidine	Lenalidomide
+DB01234	DB00480	Dexamethasone	Lenalidomide
+DB01259	DB01006	Lapatinib	Letrozole
+DB01212	DB01137	Ceftriaxone	Levofloxacin
+DB00798	DB01137	Gentamicin	Levofloxacin
+DB00878	DB00281	Chlorhexidine	Lidocaine
+DB01212	DB00601	Ceftriaxone	Linezolid
+DB01238	DB01356	Aripiprazole	Lithium
+DB00695	DB00978	Furosemide	Lomefloxacin
+DB09026	DB00678	Aliskiren	Losartan
+DB00695	DB00742	Furosemide	Mannitol
+DB00602	DB00643	Ivermectin	Mebendazole
+DB01008	DB01042	Busulfan	Melphalan
+DB00813	DB00961	Fentanyl	Mepivacaine
+DB08907	DB00331	Canagliflozin	Metformin
+DB00997	DB00331	Doxorubicin	Metformin
+DB00158	DB00331	Folic acid	Metformin
+DB00222	DB00331	Glimepiride	Metformin
+DB01114	DB01577	Chlorphenamine	Methamphetamine
+DB00307	DB00553	Bexarotene	Methoxsalen
+DB01023	DB00264	Felodipine	Metoprolol
+DB00438	DB00916	Ceftazidime	Metronidazole
+DB01212	DB00916	Ceftriaxone	Metronidazole
+DB00813	DB00683	Fentanyl	Midazolam
+DB00681	DB09031	Amphotericin B	Miltefosine
+DB00997	DB00305	Doxorubicin	Mitomycin
+DB00588	DB00471	Fluticasone Propionate	Montelukast
+DB00455	DB00471	Loratadine	Montelukast
+DB00316	DB00295	Acetaminophen	Morphine
+DB00996	DB00295	Gabapentin	Morphine
+DB01221	DB00295	Ketamine	Morphine
+DB00921	DB00704	Buprenorphine	Naltrexone
+DB01156	DB00704	Bupropion	Naltrexone
+DB00678	DB04861	Losartan	Nebivolol
+DB00564	DB00238	Carbamazepine	Nevirapine
+DB00640	DB09220	Adenosine	Nicorandil
+DB00796	DB01115	Candesartan	Nifedipine
+DB00281	DB00727	Lidocaine	Nitroglycerin
+DB00841	DB00368	Dobutamine	Norepinephrine
+DB01060	DB00338	Amoxicillin	Omeprazole
+DB00563	DB00338	Methotrexate	Omeprazole
+DB01212	DB00713	Ceftriaxone	Oxacillin
+DB00996	DB00776	Gabapentin	Oxcarbazepine
+DB00555	DB00776	Lamotrigine	Oxcarbazepine
+DB00327	DB00497	Hydromorphone	Oxycodone
+DB01183	DB00497	Naloxone	Oxycodone
+DB08916	DB01229	Afatinib	Paclitaxel
+DB01101	DB01229	Capecitabine	Paclitaxel
+DB00758	DB01229	Clopidogrel	Paclitaxel
+DB00531	DB01229	Cyclophosphamide	Paclitaxel
+DB01262	DB01229	Decitabine	Paclitaxel
+DB00997	DB01229	Doxorubicin	Paclitaxel
+DB01259	DB01229	Lapatinib	Paclitaxel
+DB00563	DB00213	Methotrexate	Pantoprazole
+DB00555	DB00715	Lamotrigine	Paroxetine
+DB01259	DB06589	Lapatinib	Pazopanib
+DB00438	DB00487	Ceftazidime	Pefloxacin
+DB00808	DB00790	Indapamide	Perindopril
+DB00199	DB00417	Erythromycin	Phenoxymethylpenicillin
+DB01233	DB00388	Metoclopramide	Phenylephrine
+DB06203	DB01132	Alogliptin	Pioglitazone
+DB00945	DB01132	Aspirin	Pioglitazone
+DB01110	DB00781	Miconazole	Polymyxin B Sulfate
+DB01234	DB08910	Dexamethasone	Pomalidomide
+DB00758	DB06209	Clopidogrel	Prasugrel
+DB06151	DB00860	Acetylcysteine	Prednisolone
+DB00518	DB00860	Albendazole	Prednisolone
+DB00993	DB00860	Azathioprine	Prednisolone
+DB00531	DB00860	Cyclophosphamide	Prednisolone
+DB00975	DB00860	Dipyridamole	Prednisolone
+DB00588	DB00860	Fluticasone Propionate	Prednisolone
+DB00471	DB00860	Montelukast	Prednisolone
+DB05812	DB00635	Abiraterone	Prednisone
+DB06772	DB00635	Cabazitaxel	Prednisone
+DB01137	DB00635	Levofloxacin	Prednisone
+DB01204	DB00635	Mitoxantrone	Prednisone
+DB00497	DB00230	Oxycodone	Pregabalin
+DB00927	DB01032	Famotidine	Probenecid
+DB00950	DB01032	Fexofenadine	Probenecid
+DB01155	DB01032	Gemifloxacin	Probenecid
+DB00515	DB01035	Cisplatin	Procainamide
+DB01117	DB01131	Atovaquone	Proguanil
+DB00683	DB00818	Midazolam	Propofol
+DB00749	DB00571	Etodolac	Propranolol
+DB00678	DB00571	Losartan	Propranolol
+DB00388	DB00852	Phenylephrine	Pseudoephedrine
+DB08903	DB00339	Bedaquiline	Pyrazinamide
+DB00472	DB01224	Fluoxetine	Quetiapine
+DB00563	DB01129	Methotrexate	Rabeprazole
+DB09026	DB00178	Aliskiren	Ramipril
+DB00796	DB00178	Candesartan	Ramipril
+DB01029	DB00178	Irbesartan	Ramipril
+DB00978	DB00863	Lomefloxacin	Ranitidine
+DB00207	DB01045	Azithromycin	Rifampin
+DB01211	DB01045	Clarithromycin	Rifampin
+DB00254	DB01045	Doxycycline	Rifampin
+DB02703	DB01045	Fusidic Acid	Rifampin
+DB00951	DB01201	Isoniazid	Rifapentine
+DB01356	DB00740	Lithium carbonate	Riluzole
+DB01394	DB00503	Colchicine	Ritonavir
+DB01264	DB00503	Darunavir	Ritonavir
+DB01241	DB01098	Gemfibrozil	Rosuvastatin
+DB00394	DB01001	Beclomethasone	Salbutamol
+DB00394	DB00938	Beclomethasone	Salmeterol
+DB00983	DB00938	Formoterol	Salmeterol
+DB05039	DB00938	Indacaterol maleate	Salmeterol
+DB01132	DB06335	Pioglitazone	Saxagliptin
+DB00818	DB01236	Propofol	Sevoflurane
+DB01088	DB00203	Iloprost	Sildenafil
+DB06710	DB00203	Methyltestosterone	Sildenafil
+DB01039	DB00641	Fenofibrate	Simvastatin
+DB00317	DB00641	Gefitinib	Simvastatin
+DB00175	DB00641	Pravastatin	Simvastatin
+DB00641	DB01261	Simvastatin	Sitagliptin phosphate
+DB00928	DB00398	Azacitidine	Sorafenib
+DB01101	DB00398	Capecitabine	Sorafenib
+DB00997	DB00398	Doxorubicin	Sorafenib
+DB00544	DB00398	Fluorouracil	Sorafenib
+DB00695	DB00421	Furosemide	Spironolactone
+DB00331	DB00421	Metformin	Spironolactone
+DB01101	DB01268	Capecitabine	Sunitinib
+DB00317	DB01268	Gefitinib	Sunitinib
+DB00398	DB01268	Sorafenib	Sunitinib
+DB00563	DB00864	Methotrexate	Tacrolimus
+DB00203	DB00820	Sildenafil	Tadalafil
+DB00612	DB00966	Bisoprolol	Telmisartan
+DB00758	DB00966	Clopidogrel	Telmisartan
+DB00515	DB00853	Cisplatin	Temozolomide
+DB00851	DB00853	Dacarbazine	Temozolomide
+DB00619	DB00853	Imatinib	Temozolomide
+DB01222	DB00871	Budesonide	Terbutaline
+DB00368	DB02638	Norepinephrine	Terlipressin
+DB00935	DB09085	Oxymetazoline	Tetracaine
+DB00635	DB01041	Prednisone	Thalidomide
+DB00312	DB00599	Pentobarbital	Thiopental
+DB00996	DB00906	Gabapentin	Tiagabine
+DB00945	DB08816	Aspirin	Ticagrelor
+DB01167	DB00208	Itraconazole	Ticlopidine
+DB00479	DB00560	Amikacin	Tigecycline
+DB01598	DB00560	Imipenem	Tigecycline
+DB01137	DB00560	Levofloxacin	Tigecycline
+DB00905	DB00373	Bimatoprost	Timolol
+DB01194	DB00373	Brinzolamide	Timolol
+DB00654	DB00373	Latanoprost	Timolol
+DB00999	DB00373	Hydrochlorothiazide	Timolol maleate
+DB00324	DB00684	Fluorometholone acetate	Tobramycin
+DB00564	DB00273	Carbamazepine	Topiramate
+DB00555	DB00273	Lamotrigine	Topiramate
+DB00776	DB00273	Oxcarbazepine	Topiramate
+DB00515	DB05109	Cisplatin	Trabectedin
+DB00997	DB05109	Doxorubicin	Trabectedin
+DB01229	DB05109	Paclitaxel	Trabectedin
+DB09214	DB00193	Dexketoprofen	Tramadol
+DB00994	DB00620	Neomycin	Triamcinolone acetonide
+DB01229	DB01199	Paclitaxel	Tubacin
+DB01238	DB00313	Aripiprazole	Valproic Acid
+DB01262	DB00313	Decitabine	Valproic Acid
+DB00997	DB00313	Doxorubicin	Valproic Acid
+DB00593	DB00313	Ethosuximide	Valproic Acid
+DB00996	DB00313	Gabapentin	Valproic Acid
+DB00555	DB00313	Lamotrigine	Valproic Acid
+DB01356	DB00313	Lithium	Valproic Acid
+DB00334	DB00313	Olanzapine	Valproic Acid
+DB00252	DB00313	Phenytoin	Valproic Acid
+DB00734	DB00313	Risperidoene	Valproic Acid
+DB00273	DB00313	Topiramate	Valproic Acid
+DB00731	DB00177	Nateglinide	Valsartan
+DB00175	DB00177	Pravastatin	Valsartan
+DB00798	DB00512	Gentamicin	Vancomycin
+DB01356	DB00661	Lithium	Verapamil
+DB01132	DB04876	Pioglitazone	Vildagliptin
+DB00515	DB00361	Cisplatin	Vinorelbine
+DB06203	DB04878	Alogliptin	Voglibose
+DB00619	DB02546	Imatinib	Vorinostat
+DB00853	DB02546	Temozolomide	Vorinostat
+DB03852	DB00495	Eucalyptol	Zidovudine
+DB00238	DB00495	Nevirapine	Zidovudine

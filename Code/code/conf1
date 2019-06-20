@@ -1,0 +1,6 @@
+chemical_network:5
+side_effect_network:10
+textmining_network:18
+atc_network:15
+drug_target_distance_network:8
+indication_network:13
