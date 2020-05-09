@@ -47,7 +47,7 @@ def load_mydata():
             #for vec in vec2:
                 #S+=vec+"\t"
             for index_i in range(0,len(vec1)):
-                #欧式距离计算方式
+                #Euclidean distance calculation method
                 S+=str(pow(float(vec1[index_i])-float(vec2[index_i]),2))+"\t"
             S+=label+"\n"
             fw.write(S)
