@@ -7,16 +7,16 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 import matplotlib as mpl
-mpl.rcParams['font.sans-serif'] = ['Microsoft YaHei'] #指定默认字体  
-mpl.rcParams['axes.unicode_minus'] = False # 解决保存图像是负号'-'显示为方块的问题
+mpl.rcParams['font.sans-serif'] = ['Microsoft YaHei'] #Specify the default font 
+mpl.rcParams['axes.unicode_minus'] = False # Resolve save image is a minus sign '-' displayed as a box
 sns.set_context("talk")
 
 ################################
 #plot picture
 def plot_picture(x1,x2):
 	#bw=0.02,bw=0.02,
-	sns.kdeplot(x1,label=u'随机药物对所对应边的权重分布')
-	sns.kdeplot(x2,label=u'药物组合所对应边的权重分布')
+	sns.kdeplot(x1,label=u'The weight distribution of the corresponding edge of the random drug pair')
+	sns.kdeplot(x2,label=u'The weight distribution of the edge corresponding to the drug combination')
 	x1_mean=np.mean(np.array(x1))
 	x2_mean=np.mean(np.array(x2))
 	x1_list=[]
@@ -27,12 +27,12 @@ def plot_picture(x1,x2):
 	
 	y= np.linspace(0, 6, 100)
 	print y.shape
-	plt.title(u'药物组合边的权重分布 VS 随机药物对所对应边的权重分布')
+	plt.title(u'Weight distribution of edges of drug combinations vs. weight distribution of edges of random drug pairs')
 	#plt.xlim(xmin=0)
-	plt.xlabel(u'边的权重')
-	plt.ylabel(u'频率')
-	plt.plot(x1_list,y, linewidth=2.5,label=u'随机药物对边的权重均值')
-	plt.plot(x2_list,y, linewidth=2.5,label=u'药物组合边的权重均值')
+	plt.xlabel(u'The weight of edge')
+	plt.ylabel(u'frequency')
+	plt.plot(x1_list,y, linewidth=2.5,label=u'The weighted mean of the side opposite the random drug')
+	plt.plot(x2_list,y, linewidth=2.5,label=u'The weighted mean of the edges of the drug combinations')
 	#sns.distplot(x)
 	plt.legend()
 	plt.show()
